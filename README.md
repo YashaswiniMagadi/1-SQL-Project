@@ -1,4 +1,4 @@
-# 1-SQL-Project-AdhocAnalysis
+# 1-SQL-Project
 
 **Project Overview:** 
 
